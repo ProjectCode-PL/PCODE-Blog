@@ -13,6 +13,7 @@ Podczas pisania posta musisz zachować <b>odpowiednią strukturę oraz rozszerze
 ---
 id: post-id
 title: Post title
+description: Brief description of the post
 categories:
 - category 1
 - category 2
@@ -26,6 +27,6 @@ authors:
 post content here...
 ```
 
-| id | title | categories | authors |
-| :-: | :-: | :-: | :-: |
-| Jest to unikalne ID posta. Zostanie ono wyświetlone w <b>linku w przeglądarce</b>. | Tytuł posta | Lista kategorii do jakich zaliczach swój post | Nazwa użytkowników na GitHubie osób, które uczestniczyły w powstawaniu wpisu. Ważne, aby nick zgadzał się z twoimi danymi z GitHuba. |
+| id | title | description | categories | authors |
+| :-: | :-: | :-: | :-: | :-: |
+| Jest to unikalne ID posta. Zostanie ono wyświetlone w <b>linku w przeglądarce</b>. | Tytuł posta. | Jest to opis posta. Zostanie on wyświetlony w podglądzie. | Lista kategorii do jakich zaliczach swój post. | Nazwa użytkowników na GitHubie osób, które uczestniczyły w powstawaniu wpisu. Ważne, aby nick zgadzał się z twoimi danymi z GitHuba. |
