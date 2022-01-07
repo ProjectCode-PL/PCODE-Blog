@@ -1,0 +1,10 @@
+name: Update posts
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          curl --request POST \
+          --url https://api.projectcode.pl/blog/update \
+          --header 'Authorization: Bearer ${{ secrets.BEARER_TOKEN }}'
