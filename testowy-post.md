@@ -11,3 +11,25 @@ authors:
 ---
 
 Testowy post
+
+```js
+import { useState } from 'react';
+
+const FooComponent = () => {
+  const [visible, setVisible] = useState(true);
+
+  const handleButtonClick = () => setVisible((prev) => !prev);
+
+  return (
+    <>
+      {visible && <div>This element is visible!</div>}
+
+      <button onClick={handleButtonClick}>
+        {visible ? "Hide element" : "Show element"}
+      </button>
+    </>
+  );
+};
+
+export default FooComponent;
+```
