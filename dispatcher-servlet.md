@@ -2,7 +2,7 @@
 id: dispatcher-servlet
 title: DispatcherServlet - centrum dowodzenia Spring MVC
 introduction: W tym artykule dowiesz się czym jest Servlet, DispatcherServlet, jak on działa oraz dlaczego znacznie ułatwia budowanie aplikacji na Spring MVC.
-date: 2022-05-03 14:00:00
+date: 2022-03-05 14:00:00
 image: images/kurs-pisania-pluginow-do-mcbe-wprowadzenie/image.png
 categories:
 - Java
