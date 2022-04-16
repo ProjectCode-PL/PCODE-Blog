@@ -61,7 +61,7 @@ Proces instalacji jest bardzo prosty i nie różni się niczym od instalacji ka�
 Żeby skorzystać z nowo zainstalowanej powłoki, użyj komendy **zsh**. Jak widzisz, na ekranie pojawił Ci się komunikat, odnoście pliki konfiguracyjnego. Musisz wybrać tutaj opcje **0**.
 
 ### Krok 3: Instalacja OhMyZsh
-**OhMyZsh** to framework służący do **zarządzania konfiguracją naszego zsh**. Proces instalacji jest równie prosty, jak w przypadku instalacji samej powłoki. Posłuży nam do tego jedna komenda: **sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"**. Jeżeli jednak napotkasz jakieś problemy podczas instalacji, odsyłam Cię do [oficjalnego repozytorium omzsh](https://github.com/ohmyzsh/ohmyzsh). Następnie przechodzimy przez bardzo prosty **proces konfiguracji**. W pierwszej kolejności wybieramy czy **ZSH ma być naszą domyślną powłoką**. Będzie miało to wpływ na to, **co ujrzymy przy pierwszym odpaleniu nowej sesji terminala**. My oczywiście wybierzemy opcję **Y**.
+**OhMyZsh** to framework służący do **zarządzania konfiguracją naszego zsh**. Proces instalacji jest równie prosty, jak w przypadku instalacji samej powłoki. Posłuży nam do tego jedna komenda, [którą znajdziesz tutaj](https://github.com/ohmyzsh/ohmyzsh#basic-installation). Następnie przechodzimy przez bardzo prosty **proces konfiguracji**. W pierwszej kolejności wybieramy czy **ZSH ma być naszą domyślną powłoką**. Będzie miało to wpływ na to, **co ujrzymy przy pierwszym odpaleniu nowej sesji terminala**. My oczywiście wybierzemy opcję **Y**.
 
 ![instalacja OhMyZSH](images/wsl-oraz-zsh-czyli-jak-zostac-programista-na-windowsie/instalacja-oh-my-zsh.png)
 
