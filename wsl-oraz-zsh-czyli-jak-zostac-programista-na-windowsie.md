@@ -2,7 +2,7 @@
 id: wsl-oraz-zsh-czyli-jak-zostac-programista-na-windowsie
 title: WSL oraz ZSH czyli jak zostać programistą na windowsie
 introduction: W tym artykule przyjrzymy się nieco zagadnieniu o nazwie WSL. Dowiesz się do czego służy, jak z niego korzystać oraz jakie mogą być jego zastosowania i zalety. Porozmawiajmy również o lekkiej customizacji terminala tak, aby nasza praca stała się znacznie przyjemniejsza.
-date: 2022-04-16 19:15:00
+date: 2022-04-16 15:17:00
 image: images/kurs-pisania-pluginow-do-mcbe-wprowadzenie/image.png
 categories:
 - Narzedzia
