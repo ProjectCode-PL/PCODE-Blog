@@ -1,7 +1,7 @@
 ---
 id: dispatcher-servlet
 title: DispatcherServlet - centrum dowodzenia Spring MVC
-introduction: TOOD
+introduction: W tym artykule dowiesz się czym jest Servlet, DispatcherServlet, jak on działa oraz dlaczego znacznie ułatwia budowanie aplikacji na Spring MVC.
 date: 2022-05-03 14:00:00
 image: images/kurs-pisania-pluginow-do-mcbe-wprowadzenie/image.png
 categories:
@@ -10,8 +10,6 @@ categories:
 authors:
 - xStrixU
 ---
-
-W tym artykule dowiesz się czym jest `Servlet`, `DispatcherServlet`, jak on działa oraz dlaczego znacznie ułatwia budowanie aplikacji na Spring MVC.
 
 ## Servlet
 Czym więc jest sam *servlet*? Niestety słowo to nie ma żadnego sensownego zamiennika na inny wyraz, więc po samej nazwie ciężko się domyślić czym ten twór jest. Posłużmy się więc [oficjalną definicją od Oracle](https://docs.oracle.com/javaee/6/tutorial/doc/bnafe.html):
